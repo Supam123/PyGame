@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b635987b-1f34-43dc-a588-54f5d80b53eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHSbiIkIwYrF6xiY6rDhAed6nb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\supam\PycharmProjects\game" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b635987b-1f34-43dc-a588-54f5d80b53eb" name="Default Changelist" comment="" />
+      <created>1578805099824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578805099824</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578805139608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578805139608" />
+    <state x="908" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578868532853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="908" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1578868532853" />
+    <state x="591" y="171" key="FileChooserDialogImpl" timestamp="1578805219802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578805219802" />
+    <state width="746" height="2" key="GridCell.Tab.0.bottom" timestamp="1578882675118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578882675118" />
+    <state width="746" height="2" key="GridCell.Tab.0.center" timestamp="1578882675118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578882675118" />
+    <state width="746" height="2" key="GridCell.Tab.0.left" timestamp="1578882675118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578882675118" />
+    <state width="746" height="2" key="GridCell.Tab.0.right" timestamp="1578882675118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578882675118" />
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom" timestamp="1578805154061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578805154061" />
+    <state width="1364" height="242" key="GridCell.Tab.1.center" timestamp="1578805154060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578805154060" />
+    <state width="1364" height="242" key="GridCell.Tab.1.left" timestamp="1578805154060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578805154060" />
+    <state width="1364" height="242" key="GridCell.Tab.1.right" timestamp="1578805154060">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578805154060" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1578805327596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578805327596" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1578871632097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578871632097" />
+    <state x="458" y="263" width="705" height="304" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1578805226597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="458" y="263" width="705" height="304" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1578805226597" />
+  </component>
+</project>
